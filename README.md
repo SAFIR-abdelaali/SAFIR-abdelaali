@@ -1,60 +1,80 @@
-🔥 ⚔️ WELCOME TO MY Github Profile ⚔️ 🔥
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=SAFIR+ABDELAALI;Software+Engineer;Cybersecurity Enthusiast" alt="Animated Title" />
+</p>
 
-( •_•)>⌐■-■  I forge code with the strength of a shonen protagonist!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAFIR-abdelaali&label=PROFILE+VIEWS&color=0d1117&style=flat" alt="Profile views" />
+</p>
 
-╔══════════════════════════════════════════════════╗
-║                  .:*~*:._.:*~*:.                 ║
-║      ⚡ 𝕮𝖔𝖉𝖊 𝖇𝖞 𝖉𝖆𝖞, 𝖆𝖓𝖎𝖒𝖊 𝖇𝖞 𝖓𝖎𝖌𝖍𝖙 ⚡      ║
-║                  .:*~*:._.:*~*:.                 ║
-╚══════════════════════════════════════════════════╝
+---
 
-🎯 MY WEAPONS OF CHOICE:
+### 🗡️ **About Me**
 
-[███████████████████▒▒▒]  PYTHON - 85%
-[█████████████▒▒▒▒▒▒▒▒▒]  JAVASCRIPT - 65%
-[████████████████▒▒▒▒▒▒]  JAVA - 75%
-[██████████▒▒▒▒▒▒▒▒▒▒▒▒]  C++ - 50%
+> **"The world is all about the end results!"** — Gun Park
+> 
+> I am a dedicated developer who approaches code with the precision and relentless improvement of a shonen protagonist. By day, I architect solutions; by night, I draw inspiration from epic narratives and complex systems.
 
-🗡️  CURRENT QUEST: Building [Learning Java]
-🏆 RECENT VICTORY: Completed [Learning C/C++]
+---
 
-⚡ POWER LEVEL: OVER 9000! 
+### ⚔️ **Technical Arsenal**
 
-🌌 MY CODING DOJO:
+**Primary Languages & Technologies:**
 
-- 🔭 I'm currently working on: [Your projects]
-- 🌱 I'm currently learning: [Java]
-- 💬 Ask me about: [Your expertise areas]
-- 📫 How to reach me: [Your contact info]
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-🎯 MY BATTLE STATS:
+**Web & Markup Technologies:**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-🏆 TROPHY CASE:
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🎯 **Current Missions**
 
-🛡️  MY ARMORY (TECHNOLOGIES):
+- **🔭 Ongoing Project:** Building a robust application while **Learning Java**.
+- **🌱 Skill Development:** Mastering advanced Java concepts and design patterns.
+- **🗡️ Current Quest:** Deep diving into systems programming and optimization.
+- **🏆 Recent Victory:** Successfully completed core projects in **C/C++**.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
 
-🔥 RECENT BATTLES (LATEST ACTIVITY):
+### 📈 **GitHub Analytics**
 
-<!--START_SECTION:activity-->
-1. 🗡️  Conquered bug in [Project Name]
-2. ⚡ Pushed code to [Repository]
-3. 🛡️  Defended against vulnerability in [Project]
-4. 🔥 Started new quest: [New Project]
-<!--END_SECTION:activity-->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=ffffff" />
+</p>
 
-🎌 LEGENDARY QUOTE:
-"The code that will change the world is already within you. Believe in the me that believes in your code!" - Kamina, Gurren Lagann
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" />
+</p>
 
-(•_•)  
-( •_•)>⌐■-■  
-(⌐■_■)
+---
 
+### 🏆 **Achievements**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAFIR-abdelaali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 **Connect With Me**
+
+- **💼 LinkedIn:** [https://www.linkedin.com/in/abdelaali-safir-0b34aa29b/]
+- **📧 Email:** [abdelaali.safir.etu24@ensem.ac.ma]
+- **🌐 Portfolio:** [https://portfolio-seven-wheat-17.vercel.app/]
+
+---
+
+<p align="center">
+  <i>"Perfect work is the result of endless, tiny, meticulous efforts."</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Keep+coding+with+passion." alt="Thank you message" />
+</p>
