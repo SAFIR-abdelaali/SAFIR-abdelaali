@@ -12,7 +12,7 @@
 
 > **"The world is all about the end results!"** — Gun Park
 > 
-> I am a dedicated developer who approaches code with the precision and relentless improvement of a shonen protagonist. By day, I architect solutions; by night, I draw inspiration from epic narratives and complex systems.
+> I am a Software Engineering student with a deep passion for cybersecurity. By day, I master the principles of building robust software systems; by night, I explore the art of breaking them down—studying penetration testing, vulnerability analysis, and secure coding practices to understand both sides of the digital battlefield.
 
 ---
 
