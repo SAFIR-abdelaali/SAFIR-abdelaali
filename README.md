@@ -25,6 +25,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFD700)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 
 **Web & Security Technologies:**
 
@@ -32,19 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFD700)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFD700)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
-
----
-
-### 📊 **Skill Proficiency**
-
-| Skill                | Level                                                              |
-|----------------------|--------------------------------------------------------------------|
-| **Python**           | ![85%](https://progress-bar.dev/85/?title=Python&color=D4AF37)     |
-| **Java**             | ![75%](https://progress-bar.dev/75/?title=Java&color=D4AF37)       |
-| **JavaScript**       | ![65%](https://progress-bar.dev/65/?title=JavaScript&color=D4AF37) |
-| **C/C++**            | ![50%](https://progress-bar.dev/50/?title=C/C%2B%2B&color=D4AF37)  |
-| **Cybersecurity**    | ![70%](https://progress-bar.dev/70/?title=Security&color=D4AF37)   |
-
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
 ### 🎯 **Current Missions**
@@ -58,18 +48,15 @@
 
 ### 📈 **GitHub Analytics**
 
-> *Note: GitHub API occasionally reaches rate limits. Stats will appear when available.*
-
 <p align="center">
   <a href="https://github.com/SAFIR-abdelaali">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide=prs" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=ffffff" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=ffffff" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/SAFIR-abdelaali">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF" />
   </a>
 </p>
 
