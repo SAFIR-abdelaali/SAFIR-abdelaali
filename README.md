@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=SAFIR+ABDELAALI;Software+Engineer;Cybersecurity Enthusiast" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=SAFIR+ABDELAALI;Software+Engineer;Cybersecurity+Enthusiast" alt="Animated Title" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAFIR-abdelaali&label=PROFILE+VIEWS&color=0d1117&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SAFIR-abdelaali&label=PROFILE+VIEWS&color=D4AF37&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🗡️ **About Me**
+### 🛡️ **About Me**
 
 > **"The world is all about the end results!"** — Gun Park
 > 
@@ -20,46 +20,64 @@
 
 **Primary Languages & Technologies:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
 
-**Web & Markup Technologies:**
+**Web & Security Technologies:**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFD700)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFD700)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+
+---
+
+### 📊 **Skill Proficiency**
+
+| Skill                | Level                                                              |
+|----------------------|--------------------------------------------------------------------|
+| **Python**           | ![85%](https://progress-bar.dev/85/?title=Python&color=D4AF37)     |
+| **Java**             | ![75%](https://progress-bar.dev/75/?title=Java&color=D4AF37)       |
+| **JavaScript**       | ![65%](https://progress-bar.dev/65/?title=JavaScript&color=D4AF37) |
+| **C/C++**            | ![50%](https://progress-bar.dev/50/?title=C/C%2B%2B&color=D4AF37)  |
+| **Cybersecurity**    | ![70%](https://progress-bar.dev/70/?title=Security&color=D4AF37)   |
 
 ---
 
 ### 🎯 **Current Missions**
 
-- **🔭 Ongoing Project:** Building a robust application while **Learning Java**.
-- **🌱 Skill Development:** Mastering advanced Java concepts and design patterns.
-- **🗡️ Current Quest:** Deep diving into systems programming and optimization.
-- **🏆 Recent Victory:** Successfully completed core projects in **C/C++**.
+- **🔭 Ongoing Project:** Building secure applications while **Learning Java**
+- **🌱 Skill Development:** Mastering cybersecurity principles and penetration testing
+- **🗡️ Current Quest:** Deep diving into ethical hacking and vulnerability assessment
+- **🏆 Recent Victory:** Successfully completed core projects in **C/C++**
 
 ---
 
 ### 📈 **GitHub Analytics**
 
+> *Note: GitHub API occasionally reaches rate limits. Stats will appear when available.*
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=ffffff" />
+  <a href="https://github.com/SAFIR-abdelaali">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide=prs" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=ffffff" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" />
+  <a href="https://github.com/SAFIR-abdelaali">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF" />
+  </a>
 </p>
 
 ---
 
 ### 🏆 **Achievements**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAFIR-abdelaali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAFIR-abdelaali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -68,6 +86,8 @@
 - **💼 LinkedIn:** [https://www.linkedin.com/in/abdelaali-safir-0b34aa29b/]
 - **📧 Email:** [abdelaali.safir.etu24@ensem.ac.ma]
 - **🌐 Portfolio:** [https://portfolio-seven-wheat-17.vercel.app/]
+- **🔐 TryHackMe:** [Your TryHackMe Profile]
+- **⚔️ HackTheBox:** [Your HackTheBox Profile]
 
 ---
 
@@ -76,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Keep+coding+with+passion." alt="Thank you message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Stay+curious+stay+secure." alt="Thank you message" />
 </p>
