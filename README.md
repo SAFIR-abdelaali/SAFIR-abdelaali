@@ -27,7 +27,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
 **Web & Security Technologies:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFD700)
@@ -35,6 +34,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=FFD700)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 ---
 
 ### 🎯 **Current Missions**
@@ -48,16 +48,22 @@
 
 ### 📈 **GitHub Analytics**
 
+> *Note: GitHub API occasionally experiences rate limits. Stats will appear when available.*
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+[![SAFIR's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide=prs&cache_seconds=1800)](https://github.com/SAFIR-abdelaali)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=ffffff&cache_seconds=1800)](https://github.com/SAFIR-abdelaali)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SAFIR-abdelaali&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
+<!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/SAFIR-abdelaali">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide=prs" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=ffffff" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/SAFIR-abdelaali">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFIR-abdelaali&theme=github-dark&hide_border=true&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37" />
 </p>
 
 ---
@@ -73,8 +79,6 @@
 - **💼 LinkedIn:** [https://www.linkedin.com/in/abdelaali-safir-0b34aa29b/]
 - **📧 Email:** [abdelaali.safir.etu24@ensem.ac.ma]
 - **🌐 Portfolio:** [https://portfolio-seven-wheat-17.vercel.app/]
-- **🔐 TryHackMe:** [Your TryHackMe Profile]
-- **⚔️ HackTheBox:** [Your HackTheBox Profile]
 
 ---
 
