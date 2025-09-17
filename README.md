@@ -8,15 +8,15 @@
 
 ---
 
-### 🛡️ **About Me**
+### **About Me**
 
-> **"The world is all about the end results!"** — Gun Park
+> **"When we view a scene with both eyes, our brains automatically reconcile the different perspectives. It's important to step back from our work to check for symmetry."** — Kei Uzuki
 > 
 > I am a Software Engineering student with a deep passion for cybersecurity. By day, I master the principles of building robust software systems; by night, I explore the art of breaking them down—studying penetration testing, vulnerability analysis, and secure coding practices to understand both sides of the digital battlefield.
 
 ---
 
-### ⚔️ **Technical Arsenal**
+###  **Technical Arsenal**
 
 **Primary Languages & Technologies:**
 
@@ -37,28 +37,21 @@
 
 ---
 
-### 🎯 **Current Missions**
+### **Current Missions**
 
-- **🔭 Ongoing Project:** Building secure applications while **Learning Java**
-- **🌱 Skill Development:** Mastering cybersecurity principles and penetration testing
-- **🗡️ Current Quest:** Deep diving into ethical hacking and vulnerability assessment
-- **🏆 Recent Victory:** Successfully completed core projects in **C/C++**
+- **Ongoing Project:** Building secure applications while **Learning Java**
+- **Skill Development:** Mastering cybersecurity principles and penetration testing
+- **Current Quest:** Deep diving into ethical hacking and vulnerability assessment
+- **Recent Victory:** Successfully completed core projects in **C/C++**
 
 ---
 
-### 📈 **GitHub Analytics**
-
-> *Note: GitHub API occasionally experiences rate limits. Stats will appear when available.*
-
+### **GitHub Analytics**
 <div align="center">
 
 <!-- GitHub Stats Cards -->
 [![SAFIR's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAFIR-abdelaali&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide=prs&cache_seconds=1800)](https://github.com/SAFIR-abdelaali)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAFIR-abdelaali&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=ffffff&cache_seconds=1800)](https://github.com/SAFIR-abdelaali)
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SAFIR-abdelaali&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=FFFFFF)](https://git.io/streak-stats)
-
 </div>
 
 <!-- Activity Graph -->
@@ -68,17 +61,17 @@
 
 ---
 
-### 🏆 **Achievements**
+### **Achievements**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SAFIR-abdelaali&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📫 **Connect With Me**
+### **Connect With Me**
 
-- **💼 LinkedIn:** [https://www.linkedin.com/in/abdelaali-safir-0b34aa29b/]
-- **📧 Email:** [abdelaali.safir.etu24@ensem.ac.ma]
-- **🌐 Portfolio:** [https://portfolio-seven-wheat-17.vercel.app/]
+- **LinkedIn:** [https://www.linkedin.com/in/abdelaali-safir-0b34aa29b/]
+- **Email:** [abdelaali.safir.etu24@ensem.ac.ma]
+- **Portfolio:** [https://portfolio-seven-wheat-17.vercel.app/]
 
 ---
 
